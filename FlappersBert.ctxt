@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FlappersBert
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FlappersBert\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ FlappersBert\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ setFlappyRotation()
+comment2.text=\r\n\ setFlappyRotaion\ changes\ the\ rotation\ of\ Flappy\ Bird\ due\ to\ the\ effects\ of\ gravity\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ checkKeyPress\ checks\ wheter\ the\ user\ has\ pressed\ the\ space\ bar\ which\ will\ make\ flappy\ bird\ "jump"\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ checkGameOver()
+comment4.text=\r\n\ checkGameOver\ checks\ if\ the\ user\ has\ hita\ pipe\ or\ the\ bottom\ of\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ losingAnimation()
+comment5.text=\r\n\ losingAnimation\ animates\ FlappyBird\ falling\ to\ the\ gro\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6

@@ -1,0 +1,48 @@
+#BlueJ class context
+comment0.target=FlappyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=FlappyWorld()
+comment1.text=\r\n\ FlappyWorld\ is\ the\ constructor\ for\ objects\ of\ type\ FlappyWorld\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ An\ instance\ of\ type\ FlappyWorld\r\n
+comment2.params=
+comment2.target=void\ populateWorld()
+<<<<<<< HEAD
+comment2.text=\r\n\ populateWorld\ is\ going\ to\ add\ objects\ to\ our\ world\ to\ prepare\ the\ game\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+=======
+comment2.text=\r\n\ populateWorld\ is\ going\ to\ add\ objects\ to\ our\ world\ to\ prepare\ the\ game\r\n\ \r\n\ @param\ No\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+>>>>>>> origin/master
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ is\ the\ code\ that\ is\ run\ on\ each\ iteration\ of\ the\ act\ cycle\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ createPipes()
+<<<<<<< HEAD
+comment4.text=\r\n\ createPipes\ adds\ pipes\ at\ the\ end\ of\ the\ world\ and\ randomizes\ their\ height\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkKeyPress()
+comment5.text=\r\n\ checkKeyPress\ checks\ whether\ the\ user\ wants\ to\ start\ a\ new\ game\ or\ display\ the\ leaderboard\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ reset()
+comment6.text=\r\n\ reset\ resets\ the\ game\ and\ allows\ the\ user\ to\ play\ a\ new\ game\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n\ \r\n
+comment7.params=
+comment7.target=void\ displayLeaderBoard()
+comment7.text=\r\n\ displayLeaderBoard\ displays\ the\ leaderboard\ of\ the\ game\ in\ a\ nicely\ formatted\ way\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n\ \r\n
+comment8.params=
+comment8.target=void\ updateLeaderBoard()
+comment8.text=\r\n\ updateLeaderBoard\ updates\ the\ leader\ board\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n\ \r\n
+=======
+comment4.text=\r\n\ createPipes\ adds\ pipes\ at\ the\ edge\ of\ the\ world\ and\ randomizes\ their\ height\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkKeyPress()
+comment5.text=\r\n\ checkKeyPress\ checks\ whether\ the\ user\ wants\ to\ start\ a\ new\ game\r\n\ or\ display\ the\ leaderboard\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ reset()
+comment6.text=\r\n\ reset\ resets\ the\ game\ and\ allows\ the\ user\ to\ play\ a\ new\ game\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment7.params=
+comment7.target=void\ displayLeaderBoard()
+comment7.text=\r\n\ displayLeaderBoard\ displays\ the\ leaderboard\ of\ the\ game\ in\ a\r\n\ nicely\ formatted\ way\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment8.params=
+comment8.target=void\ updateLeaderBoard()
+comment8.text=\r\n\ updateLeaderBoard\ updates\ the\ leaderboard\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+>>>>>>> origin/master
+numComments=9
